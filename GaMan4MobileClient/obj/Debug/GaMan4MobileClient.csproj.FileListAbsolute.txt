@@ -1,0 +1,13 @@
+C:\vsprojekte\GaMan\GaMan4MobileClient\bin\Debug\GaMan4MobileClient.exe.config
+C:\vsprojekte\GaMan\GaMan4MobileClient\bin\Debug\GaMan4MobileClient.exe
+C:\vsprojekte\GaMan\GaMan4MobileClient\bin\Debug\GaMan4MobileClient.pdb
+C:\vsprojekte\GaMan\GaMan4MobileClient\obj\Debug\GaMan4MobileClient.csprojResolveAssemblyReference.cache
+C:\vsprojekte\GaMan\GaMan4MobileClient\obj\Debug\MainWindow.baml
+C:\vsprojekte\GaMan\GaMan4MobileClient\obj\Debug\MainWindow.g.cs
+C:\vsprojekte\GaMan\GaMan4MobileClient\obj\Debug\App.g.cs
+C:\vsprojekte\GaMan\GaMan4MobileClient\obj\Debug\GaMan4MobileClient_MarkupCompile.cache
+C:\vsprojekte\GaMan\GaMan4MobileClient\obj\Debug\GaMan4MobileClient.g.resources
+C:\vsprojekte\GaMan\GaMan4MobileClient\obj\Debug\GaMan4MobileClient.Properties.Resources.resources
+C:\vsprojekte\GaMan\GaMan4MobileClient\obj\Debug\GaMan4MobileClient.csproj.GenerateResource.Cache
+C:\vsprojekte\GaMan\GaMan4MobileClient\obj\Debug\GaMan4MobileClient.exe
+C:\vsprojekte\GaMan\GaMan4MobileClient\obj\Debug\GaMan4MobileClient.pdb

@@ -1,0 +1,5 @@
+C:\vsprojekte\GaMan\ProtocolLibrary\obj\Debug\ProtocolLibrary.csprojResolveAssemblyReference.cache
+C:\vsprojekte\GaMan\ProtocolLibrary\bin\Debug\ProtocolLibrary.dll
+C:\vsprojekte\GaMan\ProtocolLibrary\bin\Debug\ProtocolLibrary.pdb
+C:\vsprojekte\GaMan\ProtocolLibrary\obj\Debug\ProtocolLibrary.dll
+C:\vsprojekte\GaMan\ProtocolLibrary\obj\Debug\ProtocolLibrary.pdb

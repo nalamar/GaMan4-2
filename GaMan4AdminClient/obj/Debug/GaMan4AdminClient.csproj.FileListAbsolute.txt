@@ -1,0 +1,13 @@
+C:\vsprojekte\GaMan\GaMan4AdminClient\bin\Debug\GaMan4AdminClient.exe.config
+C:\vsprojekte\GaMan\GaMan4AdminClient\bin\Debug\GaMan4AdminClient.exe
+C:\vsprojekte\GaMan\GaMan4AdminClient\bin\Debug\GaMan4AdminClient.pdb
+C:\vsprojekte\GaMan\GaMan4AdminClient\obj\Debug\GaMan4AdminClient.csprojResolveAssemblyReference.cache
+C:\vsprojekte\GaMan\GaMan4AdminClient\obj\Debug\MainWindow.baml
+C:\vsprojekte\GaMan\GaMan4AdminClient\obj\Debug\MainWindow.g.cs
+C:\vsprojekte\GaMan\GaMan4AdminClient\obj\Debug\App.g.cs
+C:\vsprojekte\GaMan\GaMan4AdminClient\obj\Debug\GaMan4AdminClient_MarkupCompile.cache
+C:\vsprojekte\GaMan\GaMan4AdminClient\obj\Debug\GaMan4AdminClient.g.resources
+C:\vsprojekte\GaMan\GaMan4AdminClient\obj\Debug\GaMan4AdminClient.Properties.Resources.resources
+C:\vsprojekte\GaMan\GaMan4AdminClient\obj\Debug\GaMan4AdminClient.csproj.GenerateResource.Cache
+C:\vsprojekte\GaMan\GaMan4AdminClient\obj\Debug\GaMan4AdminClient.exe
+C:\vsprojekte\GaMan\GaMan4AdminClient\obj\Debug\GaMan4AdminClient.pdb

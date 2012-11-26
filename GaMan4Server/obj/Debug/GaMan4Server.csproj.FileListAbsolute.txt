@@ -1,0 +1,6 @@
+C:\vsprojekte\GaMan\GaMan4Server\bin\Debug\GaMan4Server.exe.config
+C:\vsprojekte\GaMan\GaMan4Server\bin\Debug\GaMan4Server.exe
+C:\vsprojekte\GaMan\GaMan4Server\bin\Debug\GaMan4Server.pdb
+C:\vsprojekte\GaMan\GaMan4Server\obj\Debug\GaMan4Server.csprojResolveAssemblyReference.cache
+C:\vsprojekte\GaMan\GaMan4Server\obj\Debug\GaMan4Server.exe
+C:\vsprojekte\GaMan\GaMan4Server\obj\Debug\GaMan4Server.pdb

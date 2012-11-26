@@ -1,0 +1,4 @@
+C:\vsprojekte\GaMan\ClientLibrary\bin\Debug\ClientLibrary.dll
+C:\vsprojekte\GaMan\ClientLibrary\bin\Debug\ClientLibrary.pdb
+C:\vsprojekte\GaMan\ClientLibrary\obj\Debug\ClientLibrary.dll
+C:\vsprojekte\GaMan\ClientLibrary\obj\Debug\ClientLibrary.pdb

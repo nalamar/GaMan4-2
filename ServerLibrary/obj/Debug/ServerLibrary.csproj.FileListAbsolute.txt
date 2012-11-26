@@ -1,0 +1,7 @@
+C:\vsprojekte\GaMan\ServerLibrary\bin\Debug\ServerLibrary.dll
+C:\vsprojekte\GaMan\ServerLibrary\bin\Debug\ServerLibrary.pdb
+C:\vsprojekte\GaMan\ServerLibrary\bin\Debug\ProtocolLibrary.dll
+C:\vsprojekte\GaMan\ServerLibrary\bin\Debug\ProtocolLibrary.pdb
+C:\vsprojekte\GaMan\ServerLibrary\obj\Debug\ServerLibrary.csprojResolveAssemblyReference.cache
+C:\vsprojekte\GaMan\ServerLibrary\obj\Debug\ServerLibrary.dll
+C:\vsprojekte\GaMan\ServerLibrary\obj\Debug\ServerLibrary.pdb

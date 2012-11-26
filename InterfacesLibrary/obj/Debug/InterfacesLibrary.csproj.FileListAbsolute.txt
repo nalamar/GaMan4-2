@@ -1,0 +1,4 @@
+C:\vsprojekte\GaMan\InterfacesLibrary\bin\Debug\InterfacesLibrary.dll
+C:\vsprojekte\GaMan\InterfacesLibrary\bin\Debug\InterfacesLibrary.pdb
+C:\vsprojekte\GaMan\InterfacesLibrary\obj\Debug\InterfacesLibrary.dll
+C:\vsprojekte\GaMan\InterfacesLibrary\obj\Debug\InterfacesLibrary.pdb
