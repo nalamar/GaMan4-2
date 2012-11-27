@@ -5,3 +5,10 @@ C:\vsprojekte\GaMan\ServerLibrary\bin\Debug\ProtocolLibrary.pdb
 C:\vsprojekte\GaMan\ServerLibrary\obj\Debug\ServerLibrary.csprojResolveAssemblyReference.cache
 C:\vsprojekte\GaMan\ServerLibrary\obj\Debug\ServerLibrary.dll
 C:\vsprojekte\GaMan\ServerLibrary\obj\Debug\ServerLibrary.pdb
+F:\vsprojekte\GaMan\ServerLibrary\obj\Debug\ServerLibrary.csprojResolveAssemblyReference.cache
+F:\vsprojekte\GaMan\ServerLibrary\obj\Debug\ServerLibrary.dll
+F:\vsprojekte\GaMan\ServerLibrary\bin\Debug\ServerLibrary.dll
+F:\vsprojekte\GaMan\ServerLibrary\bin\Debug\ServerLibrary.pdb
+F:\vsprojekte\GaMan\ServerLibrary\bin\Debug\ProtocolLibrary.dll
+F:\vsprojekte\GaMan\ServerLibrary\bin\Debug\ProtocolLibrary.pdb
+F:\vsprojekte\GaMan\ServerLibrary\obj\Debug\ServerLibrary.pdb

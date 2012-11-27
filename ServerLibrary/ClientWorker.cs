@@ -46,6 +46,31 @@ namespace ServerLibrary
             }
         }
 
+        public bool Disconnect()
+        {
+            if (_socket != null)
+            {
+                try
+                {
+                    _socket.Shutdown(SocketShutdown.Both);
+                    _socket.Close();
+                    return true;
+                }
+                catch (ObjectDisposedException)
+                {
+                    return true;
+                }
+                catch
+                {
+                    return false;
+                }
+            }
+            else
+            {
+                return true;
+            }
+        }
+
         public ClientInformation ClientInfo { get; set; }
 
         public IPEndPoint LocalIPEndPoint { get; set; }
@@ -57,6 +82,8 @@ namespace ServerLibrary
         private static Mutex _mutex = new Mutex();
 
         public event PacketReceivedEventHandler PacketReceivedEvent;
+
+        public event ClientDisconnectedEventHandler ClientDisconnectedEvent;
 
     }
 }

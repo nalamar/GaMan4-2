@@ -41,6 +41,7 @@
   <ItemGroup>
     <Compile Include="Cryptography\AES.cs" />
     <Compile Include="Cryptography\GZip.cs" />
+    <Compile Include="Event\ClientEventArgs.cs" />
     <Compile Include="Event\PacketEventArgs.cs" />
     <Compile Include="Message\ClientInformation.cs" />
     <Compile Include="Packet\AddrStructureConvert.cs" />

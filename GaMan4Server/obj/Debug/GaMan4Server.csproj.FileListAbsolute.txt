@@ -4,3 +4,13 @@ C:\vsprojekte\GaMan\GaMan4Server\bin\Debug\GaMan4Server.pdb
 C:\vsprojekte\GaMan\GaMan4Server\obj\Debug\GaMan4Server.csprojResolveAssemblyReference.cache
 C:\vsprojekte\GaMan\GaMan4Server\obj\Debug\GaMan4Server.exe
 C:\vsprojekte\GaMan\GaMan4Server\obj\Debug\GaMan4Server.pdb
+F:\vsprojekte\GaMan\GaMan4Server\bin\Debug\GaMan4Server.exe.config
+F:\vsprojekte\GaMan\GaMan4Server\obj\Debug\GaMan4Server.exe
+F:\vsprojekte\GaMan\GaMan4Server\obj\Debug\GaMan4Server.pdb
+F:\vsprojekte\GaMan\GaMan4Server\bin\Debug\GaMan4Server.exe
+F:\vsprojekte\GaMan\GaMan4Server\bin\Debug\GaMan4Server.pdb
+F:\vsprojekte\GaMan\GaMan4Server\bin\Debug\ServerLibrary.dll
+F:\vsprojekte\GaMan\GaMan4Server\bin\Debug\ProtocolLibrary.dll
+F:\vsprojekte\GaMan\GaMan4Server\bin\Debug\ServerLibrary.pdb
+F:\vsprojekte\GaMan\GaMan4Server\bin\Debug\ProtocolLibrary.pdb
+F:\vsprojekte\GaMan\GaMan4Server\obj\Debug\GaMan4Server.csprojResolveAssemblyReference.cache

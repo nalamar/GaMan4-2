@@ -3,3 +3,8 @@ C:\vsprojekte\GaMan\ProtocolLibrary\bin\Debug\ProtocolLibrary.dll
 C:\vsprojekte\GaMan\ProtocolLibrary\bin\Debug\ProtocolLibrary.pdb
 C:\vsprojekte\GaMan\ProtocolLibrary\obj\Debug\ProtocolLibrary.dll
 C:\vsprojekte\GaMan\ProtocolLibrary\obj\Debug\ProtocolLibrary.pdb
+F:\vsprojekte\GaMan\ProtocolLibrary\bin\Debug\ProtocolLibrary.dll
+F:\vsprojekte\GaMan\ProtocolLibrary\bin\Debug\ProtocolLibrary.pdb
+F:\vsprojekte\GaMan\ProtocolLibrary\obj\Debug\ProtocolLibrary.csprojResolveAssemblyReference.cache
+F:\vsprojekte\GaMan\ProtocolLibrary\obj\Debug\ProtocolLibrary.dll
+F:\vsprojekte\GaMan\ProtocolLibrary\obj\Debug\ProtocolLibrary.pdb
